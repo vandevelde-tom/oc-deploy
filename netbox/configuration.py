@@ -14,7 +14,7 @@ ALLOWED_HOSTS = []
 DATABASE = {
     'NAME': 'netbox',         # Database name
     'USER': 'netbox',               # PostgreSQL username
-    'PASSWORD': 'netboxPassW0rd',           # PostgreSQL password
+    'PASSWORD': '6qs5d4f5JHLLKhgl',           # PostgreSQL password
     'HOST': 'localhost',      # Database server
     'PORT': '',               # Database port (leave blank for default)
 }
