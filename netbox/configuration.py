@@ -15,7 +15,7 @@ DATABASE = {
     'NAME': 'netbox',         # Database name
     'USER': 'netbox',               # PostgreSQL username
     'PASSWORD': '6qs5d4f5JHLLKhgl',           # PostgreSQL password
-    'HOST': 'postgresql-92-rhel7-15-tdrn5',      # Database server
+    'HOST': '172.30.195.34',      # Database server
     'PORT': '',               # Database port (leave blank for default)
 }
 
